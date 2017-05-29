@@ -1,0 +1,21 @@
+body{
+	margin: 0;
+	perspective: 1px;
+}
+p{
+	margin: 0;
+	font-size: 2em;
+	width: 100vw;
+	position: absolute;
+	left: 0;
+	top: 0;
+	border: 1px solid;
+	background-color: rgba(12,12,12,1);
+	color: white;
+}
+#log{
+	color: red;
+	position: fixed;
+	left:0;
+	top: 0
+}
